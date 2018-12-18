@@ -1,7 +1,9 @@
 # CSGO-Newbie-Guide
 A medium length repo for helping new players get into CSGO.
 
-Here are some links that might help with learning the game itself. As you play, make friends and add the people that you work well with. I would also look into the subreddit discord in the /go subreddit sidebar. That might help get you started too!
+Here are some links that might help with learning the game itself. I would also look into the subreddit discord in the /go subreddit sidebar. That might help get you started too!
+
+As you play CS and make friends, add the people that you work well with on Steam. This will give you a stable of positive, potential teammates to draw from on your friends list instead of getting random players assigned to you in matchmaking. 
 
 **Basic Mechanics**
 
