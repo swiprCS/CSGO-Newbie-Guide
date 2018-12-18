@@ -45,3 +45,5 @@ There are also tons of useful workshop maps that you can subscribe to through th
 
 Compiled by
 swipr_,TheOnlyBarker & prosthoplus
+
+For possible revisions; [github link](https://github.com/swiprCS/CSGO-Newbie-Guide)
