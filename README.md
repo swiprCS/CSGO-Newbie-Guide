@@ -1,5 +1,4 @@
 # CSGO-Newbie-Guide
-A medium length repo for helping new players get into CSGO.
 
 Here are some links that might help with learning the game itself. I would also look into the subreddit discord in the /go subreddit sidebar. That might help get you started too!
 
