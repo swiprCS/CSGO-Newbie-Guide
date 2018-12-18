@@ -13,6 +13,13 @@ As you play CS and make friends, add the people that you work well with on Steam
 
 * [TheWarOwl - CS:GO Economy Guide](https://www.youtube.com/watch?v=DpXtRbggpQM)
 
+**Movement**
+
+* LuckySkillfaker [Basic Movement](https://www.youtube.com/watch?v=EVFgi--IOcI)
+
+* LuckySkillFaker [Advanced Movement](https://www.youtube.com/watch?v=ZjVCdnwVgxo)
+
+* Make sure that you understand there's more to movement than the generic "kz, bhop, and surfing", since peeking even has its own styles to that involve counterstrafing, which is essential to understand when playing. Remember it takes a lot of time to grasp and master, so have patience and it'll pay off in the end!
 
 **Helpful Resources**
 
@@ -27,14 +34,6 @@ As you play CS and make friends, add the people that you work well with on Steam
 * YouTube - [adreN](https://www.youtube.com/user/CurseCS/videos), [warowl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK), [steel](https://www.youtube.com/user/JoshNissanCS/videos)
 
 * LuckySkillFaker also has a great series called [Noob to Pro](https://m.youtube.com/playlist?list=PLfIyu2flKmBCTgQdmDH0fiZUaagB4rD0_), which can help you take the process step by step (which is pretty in-depth and provides routines to help build muscle memory and be able to retain your skills).
-
-**Movement**
-
-* LuckySkillfaker [Basic Movement](https://www.youtube.com/watch?v=EVFgi--IOcI)
-
-* LuckySkillFaker [Advanced Movement](https://www.youtube.com/watch?v=ZjVCdnwVgxo)
-
-* Make sure that you understand there's more to movement than the generic "kz, bhop, and surfing", since peeking even has its own styles to that involve counterstrafing, which is essential to understand when playing. Remember it takes a lot of time to grasp and master, so have patience and it'll pay off in the end!
 
 **Workshop Help**
 
