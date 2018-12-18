@@ -25,11 +25,11 @@ As you play CS and make friends, add the people that you work well with on Steam
 
 * [Smokes / Flashes / Molly's](http://sothatwemaybefree.com/) - Sothatwemaybefree has a really nice site showing common throws.
 
-* [Aim Training Theory](https://www.reddit.com/r/GlobalOffensive/comments/3anjtd/how_to_train_your_aim_by_the_16_yo_semipro/) 
+* [Aim Training Theory](https://www.reddit.com/r/GlobalOffensive/comments/3anjtd/how_to_train_your_aim_by_the_16_yo_semipro/) - From the mind of a semi pro.
 
 * [Crosshair Generator by Crashz, this is used to customize your crosshair](https://steamcommunity.com/sharedfiles/filedetails/?id=308490450&searchtext=Crosshair+Generator)
 
-* [CSGO Demo Manager](https://csgo-demos-manager.com/)
+* [CSGO Demo Manager](https://csgo-demos-manager.com/) - One place to analyze your demos and review beyond the time that Valve stores the demos.
 
 * YouTube - [adreN](https://www.youtube.com/user/CurseCS/videos), [warowl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK), [steel](https://www.youtube.com/user/JoshNissanCS/videos)
 
