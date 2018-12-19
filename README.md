@@ -14,9 +14,7 @@ As you play CS and make friends, add the people that you work well with on Steam
 
 **Movement**
 
-* LuckySkillfaker [Basic Movement](https://www.youtube.com/watch?v=EVFgi--IOcI)
-
-* LuckySkillFaker [Advanced Movement](https://www.youtube.com/watch?v=ZjVCdnwVgxo)
+* LuckySkillfaker - [Basic Movement](https://www.youtube.com/watch?v=EVFgi--IOcI) & [Advanced Movement](https://www.youtube.com/watch?v=ZjVCdnwVgxo)
 
 * Make sure that you understand there's more to movement than the generic "kz, bhop, and surfing", since peeking even has its own styles to that involve counterstrafing, which is essential to understand when playing. Remember it takes a lot of time to grasp and master, so have patience and it'll pay off in the end!
 
