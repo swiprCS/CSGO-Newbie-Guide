@@ -20,7 +20,7 @@ As you play CS and make friends, add the people that you work well with on Steam
 
 **Helpful Resources**
 
-* [Smokes / Flashes / Molly's](http://sothatwemaybefree.com/) - Sothatwemaybefree has a really nice site showing common throws.
+* [Smokes / Flashes / Molly's](http://sothatwemaybefree.com/) - Sothatwemaybefree has a really nice site showing common throws for both 64 and 128 tick servers (Valve Matchmaking & External Services).
 
 * [Aim Training Theory](https://www.reddit.com/r/GlobalOffensive/comments/3anjtd/how_to_train_your_aim_by_the_16_yo_semipro/) - From the mind of a semi pro.
 
@@ -28,7 +28,7 @@ As you play CS and make friends, add the people that you work well with on Steam
 
 * [CSGO Demo Manager](https://csgo-demos-manager.com/) - One place to analyze your demos and review beyond the time that Valve stores the demos.
 
-* YouTube - [adreN](https://www.youtube.com/user/CurseCS/videos), [warowl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK), [steel](https://www.youtube.com/user/JoshNissanCS/videos)
+* YouTube - [adreN](https://www.youtube.com/user/CurseCS/videos), [warowl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK), [steel](https://www.youtube.com/user/JoshNissanCS/videos), [voo CSGO](https://www.youtube.com/channel/UC2vjGuOTH-KcRCLSm5F3oUA)
 
 * LuckySkillFaker also has a great series called [Noob to Pro](https://m.youtube.com/playlist?list=PLfIyu2flKmBCTgQdmDH0fiZUaagB4rD0_), which can help you take the process step by step (which is pretty in-depth and provides routines to help build muscle memory and be able to retain your skills).
 
@@ -41,6 +41,6 @@ There are also tons of useful workshop maps that you can subscribe to through th
 * [YPrac Maps](https://steamcommunity.com/workshop/filedetails/?id=740795413) by Yesber. These are the multi-purpose maps that allow you to learn the common angles people will hold on each map, as well as grenade lineups, a neat way to find your own, and other miscellaneous things.
 
 Compiled by
-swipr_,TheOnlyBarker & prosthoplus
+swipr_,TheOnlyBarker (aka W0NTON) & prosthoplus
 
-For possible revisions - [github link](https://github.com/swiprCS/CSGO-Newbie-Guide)
+For possible revisions - [github link](https://github.com/swiprCS/CSGO-Newbie-Guide/issues)
