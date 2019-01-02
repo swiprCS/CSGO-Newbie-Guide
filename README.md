@@ -30,7 +30,7 @@ As you play CS and make friends, add the people that you work well with on Steam
 
 * [CSGO Demo Manager](https://csgo-demos-manager.com/) - One place to analyze your demos and review beyond the time that Valve stores the demos.
 
-* YouTube - [adreN](https://www.youtube.com/user/CurseCS/videos), [TheWarOwl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK), [steel](https://www.youtube.com/user/JoshNissanCS/videos), [voo CSGO](https://www.youtube.com/channel/UC2vjGuOTH-KcRCLSm5F3oUA)
+* YouTube - [adreN](https://www.youtube.com/user/CurseCS/videos), [TheWarOwl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK), [steel](https://www.youtube.com/user/JoshNissanCS/videos), [voo CSGO](https://www.youtube.com/channel/UC2vjGuOTH-KcRCLSm5F3oUA), [3kliksphilip](https://www.youtube.com/playlist?list=PLfwtcDG7LpxGeQUBNIQHTNsSBrjzi2jX0) (He also has very informational videos regarding other aspects of the game)
 
 * LuckySkillFaker also has a great series called [Noob to Pro](https://m.youtube.com/playlist?list=PLfIyu2flKmBCTgQdmDH0fiZUaagB4rD0_), which can help you take the process step by step (which is pretty in-depth and provides routines to help build muscle memory and be able to retain your skills).
 
