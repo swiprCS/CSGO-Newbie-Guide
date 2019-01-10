@@ -26,7 +26,9 @@ As you play CS and make friends, add the people that you work well with on Steam
 
 * [Aim Training Theory](https://www.reddit.com/r/GlobalOffensive/comments/3anjtd/how_to_train_your_aim_by_the_16_yo_semipro/) - From the mind of a semi pro.
 
-* [Crosshair Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=308490450&searchtext=Crosshair+Generator) - This is used to customize your crosshair
+* [Crosshair Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=308490450) - This is used to customize your crosshair.
+
+* [Viewmodel Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=365126929) - This is used to customize your viewmodel.
 
 * [CSGO Demo Manager](https://csgo-demos-manager.com/) - One place to analyze your demos and review beyond the time that Valve stores the demos.
 
