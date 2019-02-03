@@ -26,7 +26,9 @@ As you play CS and make friends, add the people that you work well with on Steam
 
 * [Aim Training Theory](https://www.reddit.com/r/GlobalOffensive/comments/3anjtd/how_to_train_your_aim_by_the_16_yo_semipro/) - From the mind of a semi pro.
 
-* [Crosshair Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=308490450) - This is used to customize your crosshair.
+* [Config Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=1325659427) - This is used to create a config file that saves all of your settings and binds. It also has features of the two maps below, being able to customize your Crosshair and Viewmodel.
+
+* [Crosshair Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=308490450) - This is used to customize your crosshair. This map also provides Professional Players & Streamers' crosshairs if you want to test theirs out.
 
 * [Viewmodel Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=365126929) - This is used to customize your viewmodel.
 
