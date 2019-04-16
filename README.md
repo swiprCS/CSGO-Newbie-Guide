@@ -1,8 +1,8 @@
-# CSGO-Newbie-Guide
+# **CS:GO-Newbie-Guide**
 
-Here are some links that might help with learning the game itself. I would also consider joining the discord of the /r/GlobalOffensive subreddit, which you can find on the sidebar. That might help get you started too!
+Here is some information that might help with learning the game itself. I would also consider joining the discord of the /r/GlobalOffensive subreddit, which you can find on the sidebar. That might help get you started too!
 
-As you play CS and make friends, add the people that you work well with on Steam. This will give you a stable of positive, potential teammates to draw from on your friends list instead of getting random players assigned to you in matchmaking. 
+As you play CS and make friends, add the people that you work well with on Steam. This will give you a stable of positive, potential teammates to draw from on your friends list, instead of getting random players assigned to you in matchmaking. 
 
 **Basic Mechanics**
 
