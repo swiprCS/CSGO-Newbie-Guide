@@ -10,7 +10,7 @@ As you play CS and make friends, add the people that you work well with on Steam
 
 * [TheWarOwl - How to Practice Recoil Control](https://www.youtube.com/watch?v=GvA5LO-CtOY)
 
-* [TheWarOwl - CS:GO Economy Guide](https://www.youtube.com/watch?v=DpXtRbggpQM)
+* [TheWarOwl - CS:GO Economy Guide](https://www.youtube.com/watch?v=DpXtRbggpQM) (The only thing that doesn't apply anymore from this video, is the loss round bonus money. Here is the updated version of the loss bonus -->) [TheWarOwl - Meta Change w/Loss Round Bonus](https://youtu.be/AJwiFID3IdU?t=54)
 
 **Movement**
 
@@ -34,7 +34,7 @@ As you play CS and make friends, add the people that you work well with on Steam
 
 * [CSGO Demo Manager](https://csgo-demos-manager.com/) - One place to analyze your demos and review beyond the time that Valve stores the demos.
 
-* YouTube - [adreN](https://www.youtube.com/user/CurseCS/videos), [TheWarOwl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK), [steel](https://www.youtube.com/user/JoshNissanCS/videos), [voo CSGO](https://www.youtube.com/channel/UC2vjGuOTH-KcRCLSm5F3oUA), [3kliksphilip](https://www.youtube.com/playlist?list=PLfwtcDG7LpxGeQUBNIQHTNsSBrjzi2jX0) (He also has very informational videos regarding other aspects of the game), [n0thing](https://www.youtube.com/watch?v=G3jAOcjIBfk&list=PL60ZobTZpb7KSTs99Y9XZKbL5UM3CkD3R) (While some of his content may pertain to the questions of more experienced CS players, he has an array of informational videos, and is very open with explaining his thought process behind actions within the game).
+* YouTube - [adreN](https://www.youtube.com/user/CurseCS/videos), [TheWarOwl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK), [steel](https://www.youtube.com/user/JoshNissanCS/videos), [voo CSGO](https://www.youtube.com/channel/UC2vjGuOTH-KcRCLSm5F3oUA), [3kliksphilip](https://www.youtube.com/playlist?list=PLfwtcDG7LpxGeQUBNIQHTNsSBrjzi2jX0) (He also has very informational videos regarding other aspects of the game), [BananaGaming](https://www.youtube.com/user/OfficialBananaGamers) (Makes update videos a lot too, helps with knowing what changes are made in the game), [n0thing](https://www.youtube.com/watch?v=G3jAOcjIBfk&list=PL60ZobTZpb7KSTs99Y9XZKbL5UM3CkD3R) (While some of his content may pertain to the questions of more experienced CS players, he has an array of informational videos, and is very open with explaining his thought process behind actions within the game).
 
 * LuckySkillFaker also has a great series called [Noob to Pro](https://m.youtube.com/playlist?list=PLfIyu2flKmBCTgQdmDH0fiZUaagB4rD0_), which can help you take the process step by step (which is pretty in-depth and provides routines to help build muscle memory and be able to retain your skills).
 
