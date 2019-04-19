@@ -47,6 +47,6 @@ There are also tons of useful workshop maps that you can subscribe to through th
 * [YPrac Maps](https://steamcommunity.com/workshop/filedetails/?id=740795413) by Yesber. These are the multi-purpose maps that allow you to learn the common angles people will hold on each map, as well as grenade lineups, a neat way to find your own, and other miscellaneous things.
 
 Compiled by
-swipr_,TheOnlyBarker (aka W0NTON) & prosthoplus
+swipr_, TheOnlyBarker (aka W0NTON) & prosthoplus
 
-For possible revisions - [github link](https://github.com/swiprCS/CSGO-Newbie-Guide/)
+In case this comment is outdated, here is the most recent version - [github link](https://github.com/swiprCS/CSGO-Newbie-Guide/)
