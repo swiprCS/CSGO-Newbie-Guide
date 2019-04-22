@@ -47,6 +47,7 @@ There are also tons of useful workshop maps that you can subscribe to through th
 * [YPrac Maps](https://steamcommunity.com/workshop/filedetails/?id=740795413) by Yesber. These are the multi-purpose maps that allow you to learn the common angles people will hold on each map, as well as grenade lineups, a neat way to find your own, and other miscellaneous things.
 
 **Other**
+
 If you're having difficulties pinpointing bad habits you may have developed, or you'd like some feedback about your gameplay, the r/csgocritic subreddit may be useful. There, you can submit one of your matches to be analyzed by other community members. TheOnlyBarker has done analyses there many times, so feel free to send him a PM if you want a match to be looked at.
 
 * n0thing, a long time professional player, has also released [a paid guide on udemy](https://www.udemy.com/course/counter-strike-global-offensive-play-like-a-pro/) that goes over many facets of the game, and has 3 hours worth of information (was $15 prior, unsure if it will go back to that priceline).
