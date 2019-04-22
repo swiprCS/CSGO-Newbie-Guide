@@ -46,6 +46,15 @@ There are also tons of useful workshop maps that you can subscribe to through th
 
 * [YPrac Maps](https://steamcommunity.com/workshop/filedetails/?id=740795413) by Yesber. These are the multi-purpose maps that allow you to learn the common angles people will hold on each map, as well as grenade lineups, a neat way to find your own, and other miscellaneous things.
 
+**Other**
+If you're having difficulties pinpointing bad habits you may have developed, or you'd like some feedback about your gameplay, the r/csgocritic subreddit may be useful. There, you can submit one of your matches to be analyzed by other community members. TheOnlyBarker has done analyses there many times, so feel free to send him a PM if you want a match to be looked at.
+
+* n0thing, a long time professional player, has also released [a paid guide on udemy](https://www.udemy.com/course/counter-strike-global-offensive-play-like-a-pro/) that goes over many facets of the game, and has 3 hours worth of information (was $15 prior, unsure if it will go back to that priceline).
+
+* Sometimes you will learn best by sitting back and watching those that are more experienced than you, which can be done by watching professional matches/some selective streamers (n0thing, autimatic, flusha, those who do not go exclusively for flashy plays). Although it may be complex to understand their decisionmaking, focusing on one thing at a time, and trying to incorporate it into your play may prove to be benficial. For example, a rudimentary skill is crosshair placement, which can be seen at nearly every second of play.
+
+* At the end of it all, make sure that you're still having fun, and focusing on things one step at a time. We can get ahead of ourselves, treating the game like our lives depend on it. Being carefree from time to time and enjoying fun workshop maps can allow your overall experience with the game to be better than you could've ever imagined. Have fun, and remember that the process is very long, but worth it if you treat it correctly.
+
 Compiled by
 swipr_, TheOnlyBarker (aka W0NTON) & prosthoplus
 
