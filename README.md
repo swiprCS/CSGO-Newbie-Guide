@@ -44,7 +44,7 @@ Channels to explore and get started.
 * [voo CSGO](https://www.youtube.com/channel/UC2vjGuOTH-KcRCLSm5F3oUA)
 * [3kliksphilip](https://www.youtube.com/playlist?list=PLfwtcDG7LpxGeQUBNIQHTNsSBrjzi2jX0)
 * [BananaGaming](https://www.youtube.com/user/OfficialBananaGamers)
-* 0thing](https://www.youtube.com/watch?v=G3jAOcjIBfk&list=PL60ZobTZpb7KSTs99Y9XZKbL5UM3CkD3R)
+* [n0thing](https://www.youtube.com/watch?v=G3jAOcjIBfk&list=PL60ZobTZpb7KSTs99Y9XZKbL5UM3CkD3R)
 
 
 **Workshop Help**
