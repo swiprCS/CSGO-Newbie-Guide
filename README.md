@@ -34,9 +34,7 @@ Here is some information that might help with learning the game itself. I would 
 
 * [CSGO Demo Manager](https://csgo-demos-manager.com/) - One place to analyze your demos and review beyond the time that Valve stores the demos.
 
-**YouTube**
-
-Channels to explore.
+**YouTube Channels**
 
 * [adreN](https://www.youtube.com/user/CurseCS/videos)
 * [TheWarOwl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK)
