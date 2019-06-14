@@ -36,7 +36,7 @@ Here is some information that might help with learning the game itself. I would 
 
 **YouTube**
 
-Channels to explore and get started.
+Channels to explore.
 
 * [adreN](https://www.youtube.com/user/CurseCS/videos)
 * [TheWarOwl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK)
