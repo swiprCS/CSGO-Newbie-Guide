@@ -36,6 +36,8 @@ Here is some information that might help with learning the game itself. I would 
 
 * [CSGO Demo Manager](https://csgo-demos-manager.com/) - One place to analyze your demos and review beyond the time that Valve stores the demos.
 
+* [Banana Text Mod](https://gamebanana.com/gamefiles/3711) - Changes the game language to help readability and buying decisions. 
+
 **YouTube Channels**
 
 * [adreN](https://www.youtube.com/user/CurseCS/videos)
