@@ -8,7 +8,7 @@ Here is some information that might help with learning the game itself. I would 
 
 * [TheWarOwl - How to Practice Recoil Control](https://www.youtube.com/watch?v=GvA5LO-CtOY)
 
-* [TheWarOwl - CS:GO Economy Guide](https://www.youtube.com/watch?v=DpXtRbggpQM) 
+* [HardFluff - CSGO Economy Guide and Patterns 2020 (Save, Force, Eco)](https://www.youtube.com/watch?v=Gc7-3U1yH6I) 
 
 * [TheWarOwl - Meta Change w/Loss Round Bonus](https://youtu.be/AJwiFID3IdU?t=54) - Here is the updated version of the loss bonus.
 
