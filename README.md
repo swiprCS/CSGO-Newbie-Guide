@@ -40,9 +40,9 @@ Here is some information that might help with learning the game itself. I would 
 
 **YouTube Channels**
 
-* [adreN](https://www.youtube.com/user/CurseCS/videos)
+* [adreN](https://www.youtube.com/c/adreNTV/playlists)
 * [TheWarOwl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK)
-* [steel](https://www.youtube.com/user/JoshNissanCS/videos)
+* [steel](https://www.youtube.com/user/JoshNissanCS/playlists)
 * [voo CSGO](https://www.youtube.com/channel/UC2vjGuOTH-KcRCLSm5F3oUA)
 * [3kliksphilip](https://www.youtube.com/playlist?list=PLfwtcDG7LpxGeQUBNIQHTNsSBrjzi2jX0)
 * [BananaGaming](https://www.youtube.com/user/OfficialBananaGamers)
@@ -58,6 +58,6 @@ There are also tons of useful workshop maps that you can subscribe to through th
 * [YPrac Maps](https://steamcommunity.com/workshop/filedetails/?id=740795413) by Yesber. These are the multi-purpose maps that allow you to learn the common angles people will hold on each map, as well as grenade lineups, a neat way to find your own, and other miscellaneous things.
 
 Compiled by
-swipr_, TheOnlyBarker (aka W0NTON) & prosthoplus
+swipr_, TheOnlyBarker (aka Asians-FTW) & prosthoplus
 
 In case this comment is outdated, here is the most recent version - [github link](https://github.com/swiprCS/CSGO-Newbie-Guide/)
