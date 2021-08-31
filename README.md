@@ -32,16 +32,6 @@ Here is some information that might help with learning the game itself. I would 
 
 * [Banana Gaming Text Mod](https://gamebanana.com/gamefiles/3711) - Changes the game language to help readability and buying decisions. 
 
-**YouTube Channels**
-
-* [adreN](https://www.youtube.com/c/adreNTV/playlists)
-* [TheWarOwl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK)
-* [steel](https://www.youtube.com/user/JoshNissanCS/playlists)
-* [voo CSGO](https://www.youtube.com/channel/UC2vjGuOTH-KcRCLSm5F3oUA)
-* [3kliksphilip](https://www.youtube.com/playlist?list=PLfwtcDG7LpxGeQUBNIQHTNsSBrjzi2jX0)
-* [BananaGaming](https://www.youtube.com/user/OfficialBananaGamers)
-* [n0thing](https://www.youtube.com/watch?v=G3jAOcjIBfk&list=PL60ZobTZpb7KSTs99Y9XZKbL5UM3CkD3R)
-
 **Workshop Help**
 
 There are also tons of useful workshop maps that you can subscribe to through the steam workshop, which can provide ways to warmup, learn maps, and practice new skills.
@@ -57,6 +47,16 @@ There are also tons of useful workshop maps that you can subscribe to through th
 If you have any goals of playing more serious, you should look into joining and playing in the Mythic League Hubs.
 
 * [Mythic League](https://mythicleague.com/)
+
+**YouTube Channels**
+
+* [adreN](https://www.youtube.com/c/adreNTV/playlists)
+* [TheWarOwl](https://www.youtube.com/watch?v=SRLVloYyf9k&list=PLHF999pjo89Nu55Ep1Y0UHHLKluF5c-IK)
+* [steel](https://www.youtube.com/user/JoshNissanCS/playlists)
+* [voo CSGO](https://www.youtube.com/channel/UC2vjGuOTH-KcRCLSm5F3oUA)
+* [3kliksphilip](https://www.youtube.com/playlist?list=PLfwtcDG7LpxGeQUBNIQHTNsSBrjzi2jX0)
+* [BananaGaming](https://www.youtube.com/user/OfficialBananaGamers)
+* [n0thing](https://www.youtube.com/watch?v=G3jAOcjIBfk&list=PL60ZobTZpb7KSTs99Y9XZKbL5UM3CkD3R)**
 
 Compiled by
 swipr_, TheOnlyBarker, & prosthoplus
