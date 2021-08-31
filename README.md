@@ -44,7 +44,7 @@ There are also tons of useful workshop maps that you can subscribe to through th
 
 **Alternative Matchmaking**
 
-If you have any goals of playing more serious, you should look into joining and playing in the Mythic League Hubs.
+If you have any goals of playing more serious in NA, you should look into joining and playing in the Mythic League Hubs.
 
 * [Mythic League](https://mythicleague.com/)
 
