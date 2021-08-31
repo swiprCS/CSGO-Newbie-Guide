@@ -22,7 +22,7 @@ Here is some information that might help with learning the game itself. I would 
 
 * [Smokes / Flashes / Molly's](http://sothatwemaybefree.com/) - Sothatwemaybefree has a really nice site showing common throws for both 64 and 128 tick servers (Valve Matchmaking & External Services).
 
-* [Utility Spreadsheet](https://docs.google.com/spreadsheets/d/1oPit6-oA4ydWOjyOpaLAI79fpsqUXXNp9jzeIl5n_Eg/edit?fbclid=IwAR2_KqUTGkQxJGzwfRpb5ZEwW75oX9r0r2dH5bpxBaWBpQGHu4FuoozY-Ig#gid=641289592) - A spreadsheet that has many of the most necessary lineups with videos on how to accomplish each.
+* [CSGO Nades](https://www.csgonades.com/) - A website that has many of the most necessary lineups with videos on how to accomplish each.
 
 * [Aim Training Theory](https://www.reddit.com/r/GlobalOffensive/comments/3anjtd/how_to_train_your_aim_by_the_16_yo_semipro/) - From the mind of a semi pro.
 
@@ -48,7 +48,6 @@ Here is some information that might help with learning the game itself. I would 
 * [BananaGaming](https://www.youtube.com/user/OfficialBananaGamers)
 * [n0thing](https://www.youtube.com/watch?v=G3jAOcjIBfk&list=PL60ZobTZpb7KSTs99Y9XZKbL5UM3CkD3R)
 
-
 **Workshop Help**
 
 There are also tons of useful workshop maps that you can subscribe to through the steam workshop, which can provide ways to warmup, learn maps, and practice new skills.
@@ -56,6 +55,12 @@ There are also tons of useful workshop maps that you can subscribe to through th
 * [Aim_botz](https://steamcommunity.com/sharedfiles/filedetails/?id=243702660) by Mr. uLLeticaL™-S-. This one is commonly used to warmup, as well as for practicing new skills with the options it provides you (moving bots, peek boxes, long range, uneven ground, etc.)
 
 * [YPrac Maps](https://steamcommunity.com/workshop/filedetails/?id=740795413) by Yesber. These are the multi-purpose maps that allow you to learn the common angles people will hold on each map, as well as grenade lineups, a neat way to find your own, and other miscellaneous things.
+
+**Alternative Matchmaking**
+
+If you have any goals of playing more serious, you should look into joining and playing in the Mythic League Hubs.
+
+* [Mythic League](https://mythicleague.com/)
 
 Compiled by
 swipr_, TheOnlyBarker, & prosthoplus
