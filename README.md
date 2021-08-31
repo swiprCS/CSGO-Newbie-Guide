@@ -28,12 +28,6 @@ Here is some information that might help with learning the game itself. I would 
 
 * [Noob to Pro](https://m.youtube.com/playlist?list=PLfIyu2flKmBCTgQdmDH0fiZUaagB4rD0_) - Step by step series on how to learn CS.
 
-* [Config Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=1325659427) - This is used to create a config file that saves all of your settings and binds. It also has features of the two maps below, being able to customize your Crosshair and Viewmodel.
-
-* [Crosshair Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=308490450) - This is used to customize your crosshair. This map also provides Professional Players & Streamers' crosshairs if you want to test theirs out.
-
-* [Viewmodel Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=365126929) - This is used to customize your viewmodel.
-
 * [CSGO Demo Manager](https://csgo-demos-manager.com/) - One place to analyze your demos and review beyond the time that Valve stores the demos.
 
 * [Banana Gaming Text Mod](https://gamebanana.com/gamefiles/3711) - Changes the game language to help readability and buying decisions. 
@@ -55,6 +49,8 @@ There are also tons of useful workshop maps that you can subscribe to through th
 * [Aim_botz](https://steamcommunity.com/sharedfiles/filedetails/?id=243702660) by Mr. uLLeticaL™-S-. This one is commonly used to warmup, as well as for practicing new skills with the options it provides you (moving bots, peek boxes, long range, uneven ground, etc.)
 
 * [YPrac Maps](https://steamcommunity.com/workshop/filedetails/?id=740795413) by Yesber. These are the multi-purpose maps that allow you to learn the common angles people will hold on each map, as well as grenade lineups, a neat way to find your own, and other miscellaneous things.
+
+* [Config Generator by Crashz'](https://steamcommunity.com/sharedfiles/filedetails/?id=1325659427) - This is used to create a config file that saves all of your settings and binds. 
 
 **Alternative Matchmaking**
 
